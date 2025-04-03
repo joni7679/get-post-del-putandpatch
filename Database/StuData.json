@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": "b811",
+      "name": "anitosh",
+      "email": "anitosh45@gmail.com",
+      "password": "gffhfhf]",
+      "phone": "78686"
+    },
+    {
+      "id": "0694",
+      "name": "joy ray",
+      "email": "joye@gmail.com",
+      "password": "joy@145",
+      "phone": "9008080"
+    },
+    {
+      "name": "raja seb roy",
+      "email": "rajsebroy453@gmail.com",
+      "password": "dfwerw",
+      "phone": "434534",
+      "id": "90a5"
+    },
+    {
+      "name": "raja halder",
+      "email": "raja@gmail.com",
+      "password": "eee",
+      "phone": "32435",
+      "id": "d24d"
+    }
+  ]
+}
